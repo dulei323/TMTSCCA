@@ -7,7 +7,7 @@ Code: Run run_example_ismb_eccb19.m to get the result.
 
 Paper:
 
-Identifying progressive imaging genetic patterns via multi-task sparse canonical correlation analysis: a longitudinal study of the ADNI cohort, submitted to ISMB/ECCB 2019.
+Identifying progressive imaging genetic patterns via multi-task sparse canonical correlation analysis: a longitudinal study of the ADNI cohort, has been accepted by ISMB/ECCB 2019.
 
 Author: Lei Du
 
